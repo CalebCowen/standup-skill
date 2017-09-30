@@ -1,0 +1,19 @@
+{
+  "name": "standup-skill",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CalebCowen/standup-skill.git"
+  },
+  "author": "Pete Springer, Taylor Smith, Caleb Cowen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CalebCowen/standup-skill/issues"
+  },
+  "homepage": "https://github.com/CalebCowen/standup-skill#readme"
+}

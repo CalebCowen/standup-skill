@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/CalebCowen/standup-skill/issues"
   },
-  "homepage": "https://github.com/CalebCowen/standup-skill#readme"
+  "homepage": "https://github.com/CalebCowen/standup-skill#readme",
+  "dependencies": {
+    "alexa-sdk": "^1.0.14"
+  }
 }
